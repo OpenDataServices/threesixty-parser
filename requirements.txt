@@ -14,7 +14,7 @@ more-itertools==4.3.0
 numpy==1.15.2
 openpyxl==2.5.8
 pluggy==0.8.0
-py==1.7.0
+py==1.10.0
 pytest==3.8.2
 python-dateutil==2.7.3
 pytz==2018.5
